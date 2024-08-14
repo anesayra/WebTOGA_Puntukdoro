@@ -37,6 +37,14 @@ const dataToga = [
       " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
     route: "/Jeruknipis",
   },
+  {
+    title: "PARI JOTO",
+    latin: "(Medinila Magnifica.)",
+    imageUrl: "/parijoto.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/Pari-joto",
+  },
 ];
 
 export default function Home() {

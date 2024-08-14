@@ -17,15 +17,14 @@ export default function FooterComp() {
             className="w-[100px] mr-5 "
           />
           <p>
-            Membangun desa dengan mengusung konsep penanaman TOGA (Tanaman Obat
-            Keluarga) dengan sistem penanaman vertikultur menggunakan sampah
-            plastik botol dan penyiraman otomatis
+            Membangun desa dengan website TOGA (Tanaman Obat
+            Keluarga) untuk mengedukasi masyarakat tentang manfaat, cara penanaman, dan pengolahan tanaman obat, serta meningkatkan kesadaran akan pentingnya penggunaan tanaman tradisional untuk kesehatan
           </p>
         </div>
         <div className=" w-1/4 "></div>
         <div className="flex flex-col md:flex-row justify-between w-full my-2 xl:mt-0 ">
           <div className="flex flex-col items-start mt-8">
-            <p className="text-[18px] font-bold mb-4">Klaten</p>
+            <p className="text-[18px] font-bold mb-4">Puntukdoro</p>
 
             <Link href="/" className="font-light font-[14px] mt-1">
               Home

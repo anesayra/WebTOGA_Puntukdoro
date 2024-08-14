@@ -84,7 +84,7 @@ export default function Home() {
                     WELCOME TO TAMAN TOGA DESA PUNTUKDORO
                   </h1>
                   <p className="mt-4 text-sm lg:text-base">
-                  Website TOGA Desa Puntukdoro adalah sebuah platform digital yang bertujuan untuk memberikan informasi lengkap dan akurat tentang tanaman obat keluarga yang ada di Taman Desa Puntukdoro. Melalui website ini, pengunjung dapat mengetahui berbagai jenis tanaman TOGA,sejarahnya,  manfaat kesehatannya, cara pemanfaatannya, hingga pengolahan yang tepat. Website ini juga dirancang sebagai media edukasi dan sosialisasi kepada masyarakat, guna meningkatkan kesadaran akan pentingnya penggunaan tanaman obat tradisional dalam menjaga kesehatan. Selain itu, website ini dilengkapi dengan fitur interaktif seperti forum diskusi, galeri foto, dan panduan praktis yang dapat membantu masyarakat dalam memanfaatkan tanaman obat keluarga secara optimal.
+                  Website TOGA Desa Puntuk Doro adalah platform digital yang memberikan informasi mengenai jenis-jenis tanaman obat keluarga (TOGA) yang ada di Taman Desa Puntuk Doro. Website ini bertujuan untuk mengedukasi masyarakat tentang manfaat, cara penanaman, dan pengolahan tanaman obat, serta meningkatkan kesadaran akan pentingnya penggunaan tanaman tradisional untuk kesehatan.
                   </p>
                   <button
                     onClick={handleClick}

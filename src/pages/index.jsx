@@ -69,7 +69,86 @@ const dataToga = [
       " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
     route: "/keji-beling",
   },
-  
+  {
+    title: "DAUN UNGU",
+    latin: "(Graptophyllum pictum.)",
+    imageUrl: "/daunungu.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/daun-ungu",
+  },
+  {
+    title: "TAPAK DARA",
+    latin: "(Catharanthus Roseus.)",
+    imageUrl: "/tapakdara.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/tapak-dara",
+  },
+  {
+    title: "ROSELLA ",
+    latin: "(Hibiscus Sabdariffa.)",
+    imageUrl: "/ROSELLA.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/rosella",
+  },
+  {
+    title: "SEREH ",
+    latin: "(Cymbopogon Citratus.)",
+    imageUrl: "/sereh.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/sereh",
+  },
+  {
+    title: "KENCUR ",
+    latin: "(Kaempferia Galanga.)",
+    imageUrl: "/kencur.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/kencur",
+  },
+  {
+    title: "DAUN ALUMUNIUM ",
+    latin: "(Pilea cadierei.)",
+    imageUrl: "/alumunium.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/daun-alumunium",
+  },
+  {
+    title: "JERUK LEMON ",
+    latin: "(Citrus Limon.)",
+    imageUrl: "/lemon.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/Jeruk-lemon",
+  },
+  {
+    title: "BAWANG MERAH ",
+    latin: "(Allium ascalonicum.)",
+    imageUrl: "/bawang.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/bawang-merah",
+  },
+  {
+    title: "BELIMBING ",
+    latin: "(Averrhoa carambola.)",
+    imageUrl: "/belimbing.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/belimbing",
+  },
+  {
+    title: "SINGAWALANG ",
+    latin: "(Petiveria alliacea.)",
+    imageUrl: "/singa.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/siwalang",
+  },
 ];
 
 export default function Home() {

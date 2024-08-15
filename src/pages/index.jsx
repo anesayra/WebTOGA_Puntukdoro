@@ -45,6 +45,31 @@ const dataToga = [
       " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
     route: "/Pari-joto",
   },
+  {
+    title: "DAUN JINTEN",
+    latin: "(Plectranthus Amboinicus.)", 
+    imageUrl: "/daunjinten.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/daun-jinten",
+  },
+  {
+    title: "TEMULAWAK",
+    latin: "(Curcuma Xanthorrhiza.)",
+    imageUrl: "/temulawak.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/temulawak",
+  },
+  {
+    title: "KEJI BELING",
+    latin: "(Strobilanthes Crispus.)",
+    imageUrl: "/kejibeling.jpeg",
+    description:
+      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+    route: "/keji-beling",
+  },
+  
 ];
 
 export default function Home() {

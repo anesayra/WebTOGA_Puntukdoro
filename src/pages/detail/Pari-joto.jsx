@@ -6,7 +6,7 @@ export default function DetailTogaJahe() {
   return (
     <>
       <Head>
-        <title>Jahe | myToga.in</title>
+        <title>Pari Joto | myToga.in</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
 
@@ -20,11 +20,11 @@ export default function DetailTogaJahe() {
               className="flex flex-col  overflow-hidden items-center justify-center w-full lg:w-4/5  lg:mt-[60px]"
             >
               <h1 className="text-2xl lg:text-4xl font-bold text-gray-900 mb-[40px] lg:mb-[50px]">
-                JAHE <a className="italic">(Zingiber Officinale)</a>
+                PARI JOTO <a className="italic">(Medinilla cumingii )</a>
               </h1>
               <div className="lg:w-1/2 w-full p-4">
                 <img
-                  src="/jahe.jpg"
+                  src="/parijoto.jpeg"
                   alt="Product"
                   className="w-full h-auto object-fill shadow-lg bg-white rounded  p-4 max-h-[670px] mb-[20px] lg:mb-[40px]"
                 />

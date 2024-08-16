@@ -110,7 +110,7 @@ const dataToga = [
     route: "/kencur",
   },
   {
-    title: "DAUN ALUMUNIUM ",
+    title: "DAUN MUTIARA ",
     latin: "(Pilea cadierei.)",
     imageUrl: "/alumunium.jpeg",
     description:

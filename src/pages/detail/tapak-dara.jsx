@@ -2,7 +2,7 @@ import HeaderComp from "@/components/HeaderComp";
 import FooterComp from "@/components/FooterComp";
 import Head from "next/head";
 
-export default function DetailTogaKunyit() {
+export default function DetailTogaTapakDara() {
   return (
     <>
       <Head>
@@ -14,149 +14,86 @@ export default function DetailTogaKunyit() {
         <div className="flex flex-col justify-center items-center bg-neutral-100">
           <HeaderComp />
 
-          <div className="container h-auto  flex  justify-center items-center mx-auto px-4 py-8">
+          <div className="container h-auto flex justify-center items-center mx-auto px-4 py-8">
             <div
               data-aos="fade-up"
-              className="flex flex-col  overflow-hidden items-center justify-center w-full lg:w-4/5  lg:mt-[60px]"
+              className="flex flex-col overflow-hidden items-center justify-center w-full lg:w-4/5 lg:mt-[60px]"
             >
-              <h1 className="text-2xl lg:text-4xl font-bold text-gray-900 lg:mb-[50px]">
-                TAPAK DARA <a className="italic">(Catharanthus Roseus)</a>
+              <h1 className="text-2xl lg:text-4xl font-bold text-gray-900 mb-[40px] lg:mb-[50px]">
+                TAPAK DARA <a className="italic">(Catharanthus roseus)</a>
               </h1>
               <div className="lg:w-1/2 w-full p-4">
                 <img
                   src="/tapakdara.jpeg"
                   alt="Product"
-                  className="w-full h-auto object-fill shadow-lg bg-white rounded  p-4 max-h-[670px] mb-[20px] lg:mb-[40px]"
+                  className="w-full h-auto object-fill shadow-lg bg-white rounded p-4 max-h-[670px] mb-[20px] lg:mb-[40px]"
                 />
               </div>
-              <div className=" w-full p-4 m flex flex-col justify-between">
-                <div className="text-gray-700 mb-3">
-                  &emsp; &emsp;<b>Kunyit</b> merupakan tumbuhan yang sering
-                  dijadikan rempah-rempah dan jamu untuk kesehatan. Selain itu,
-                  kunyit memiliki sisi kebermanfaatan dibidang perawatan kulit
-                  hingga pewarna alami. Dikarenakan banyaknya manfaat kulit maka
-                  banyak masyarakat membudidayakannya. Salah satu cara
-                  membudidayakan kunyit yang baik dan benar adalah sebagai
-                  berikut:
-                </div>
-                <div className="text-gray-700 font-bold ">
-                  A. Cara menanam kunyit yang benar
-                </div>
-                <div className="text-gray-700  ml-5">
-                  1. Mempersiapkan bibit kunyit yang unggul
-                  <div className="ml-5">
-                    &emsp; &emsp;Bibit kunyit yang berasal dari pecahan rimpang
-                    memudahkan bibit kunyit untuk tumbuh. Selain itu, bibit
-                    kunyit harus terhindar dari penyakit. Ciri-ciri tumbuhan
-                    kunyit ini adalah memiliki warna kuning pada buahnya dan
-                    warna kuning kehijauan pada daunnya.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  2. Mempersiapkan lahan tanam
-                  <div className="ml-5">
-                    &emsp; &emsp; Dalam mempersiapkan lahan tanam, tanah perlu
-                    untuk digemburkan terlebih dahulu serta dicampur dengan
-                    kompos. Tanah, kompos, dan Pupuk kandang yang digunakan
-                    memiliki perbandingan 2:1:1. Kemudian masukkan tanah ke
-                    dalam media tanam hingga merata.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  3. Proses penanaman bibit kunyit
-                  <div className="ml-5 flex flex-col">
-                    &emsp; &emsp; Dalam penanaman bibit kunyit pertama dibuat
-                    lubang pada media tanam dengan kedalaman 8 cm. Kemudian
-                    masukkan bibit atau tunas ke dalam lubang yang telah
-                    disiapkan. Lalu tutup lubang dengan tanah yang telah
-                    tercampur kompos dan pupuk kandang. Jangan lupa untuk
-                    menyirami bibit yang telah ditanam tersebut dengan air
-                    secukupnya. Kunyit biasanya ditanam diawal musim hujan
-                    karena kunyit membutuhkan banyak air untuk tumbuh subur.
-                    Tanaman kunyit membutuhkan waktu tumbuh yang relatif cepat
-                    yaitu kurang lebih 7 hingga 8 bulan saja.
-                  </div>
-                </div>
-                <div className="text-gray-700 font-bold mt-2">
-                  B. Proses perawatan tanaman kunyit
-                </div>
-                <div className="text-gray-700  ml-5">
-                  1. Pemupukan
-                  <div className="ml-5">
-                    &emsp; &emsp;Pupuk yang digunakan sebaiknya merupakan pupuk
-                    organik dan meminimalisir pupuk kimia. Pemupukan dilakukan
-                    minimal satu bulan sekali, dengan menggunakan pupuk kandang
-                    dan kompos dengan perbandingan 1:1.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  2. Penyiangan
-                  <div className="ml-5">
-                    &emsp; &emsp;Penyiangan dilakukan untuk meminimalisir
-                    pertumbuhan gulma pengganggu. Hal tersebut dilakukan agar
-                    pertumbuhan kunyit maksimal dan proses penyerapan zat hara
-                    dan air dari tanah tidak terganggu prosesnya.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  3. Penyiraman
-                  <div className="ml-5 flex flex-col">
-                    &emsp; &emsp;Penyiraman dilakukan setiap 2 kali sehari yaitu
-                    pada pagi dan sore hari untuk menjaga kelembaban media
-                    tanam. Penyiraman sebaiknya tidak terlalu banyak, karena air
-                    yang tergenang terlalu banyak pada media tanam dapat
-                    menyebabkan rimpang kunyit membusuk.
-                  </div>
-                </div>
-                <div className="text-gray-700 font-bold mt-2">
-                  C. Masa panen tanaman kunyit
+              <div className="text-gray-700 mt-2 self-start">
+                Tanaman tapak dara, juga dikenal dengan nama Catharanthus roseus, adalah tanaman obat yang memiliki banyak manfaat kesehatan. Tanaman ini dikenal dengan bunga berwarna cerah dan daun hijau yang digunakan dalam berbagai aplikasi herbal. Tapak dara banyak ditemukan di daerah tropis dan subtropis.
+              </div>
+              <div className="w-full pl-5 pr-4 pb-4 flex flex-col justify-between">
+                
+                <div className="text-gray-700 font-bold mt-2 text-left">
+                  A. Bagian yang dimanfaatkan dari tanaman tapak dara
                 </div>
                 <div className="text-gray-700">
-                  &emsp; &emsp;Masa panen tanaman kunyit untuk satu periode
-                  panen yaitu 8 hingga 18 bulan. Tetapi pemanenan terbaik
-                  dilakukan pada bulan ke-11 dan ke-13. Masa panen tanaman
-                  kunyit ditandai dengan layu atau jatuhnya daun kedua yang
-                  berada pada tanaman. Selain itu, pada batang yang sebelumnya
-                  berwarna hijau menjadi agak kekuningan yang artinya kunyit
-                  siap untuk dipanen.
+                  &emsp; &emsp;Bagian tanaman tapak dara yang paling sering dimanfaatkan adalah daunnya. Daun tapak dara dapat digunakan untuk membuat ramuan herbal yang berkhasiat. Selain itu, bunga dan akar tanaman ini juga digunakan dalam pengobatan tradisional.
                 </div>
-                <div className="text-gray-700 font-bold mt-2">
-                  D. Manfaat kunyit bagi kesehatan dan cara pengolahannya
+
+                <div className="text-gray-700 font-bold mt-2 text-left">
+                  B. Manfaat tanaman tapak dara
                 </div>
-                <div className="text-gray-700  ml-5">
-                  1. Ramuan anti perasan usus
+                <div className="text-gray-700">
+                  &emsp; &emsp;Tanaman tapak dara dikenal memiliki berbagai manfaat kesehatan. Berikut adalah beberapa manfaat dari tanaman tapak dara:
+                </div>
+                <div className="text-gray-700 ml-5">
+                  1. Mengatasi diabetes
                   <div className="ml-5">
-                    &emsp; &emsp;Siapkan rimpang kunyit 20 gram dan air 100 mL
-                    kemudian kunyit diparut dan air sarinya direbus dan diminum
-                    air sari pati kunyit sebanyak 1 kali sehari.
+                    &emsp; &emsp;Ekstrak daun tapak dara diketahui dapat membantu menurunkan kadar gula darah, sehingga bermanfaat bagi penderita diabetes.
                   </div>
                 </div>
-                <div className="text-gray-700  ml-5">
-                  2. Membantu mengobati demam
+                <div className="text-gray-700 ml-5">
+                  2. Mengatasi hipertensi
                   <div className="ml-5">
-                    &emsp; &emsp;Siapkan rimpang kunyit 20 gr dan air matang 100
-                    mL parut kunyit dan air sarinya rebus. Air hasil perasan
-                    kunyit tadi bisa diminum sejumlah 2 kali dalam sehari.
+                    &emsp; &emsp;Daun tapak dara juga dapat membantu menurunkan tekanan darah tinggi karena kandungan senyawa aktif yang dapat membantu menyeimbangkan tekanan darah.
                   </div>
                 </div>
-                <div className="text-gray-700  ml-5">
-                  3. Membantu mengobati diare
-                  <div className="ml-5 ">
-                    &emsp; &emsp;Rimpang kunyit yang sudah diiris kemudian
-                    dicampur dengan satu sendok air kapur sirih. Rebus dan aduk
-                    gabungan tersebut hingga rata. Setelah mendidih, lantas
-                    didinginkan dan saring ampasnya. Minum 3 x sehari hingga
-                    sembuh.
+                <div className="text-gray-700 ml-5">
+                  3. Menyembuhkan infeksi
+                  <div className="ml-5">
+                    &emsp; &emsp;Sifat antimikroba dari tanaman tapak dara membantu dalam penyembuhan infeksi dan mempercepat proses pemulihan dari luka.
                   </div>
                 </div>
-                <div className="text-gray-700  ml-5">
-                  4. Membantu mengobati keputihan
-                  <div sclassName="ml-5 ">
-                    &emsp; &emsp;Rimpang kunyit yang sudah diiris kemudian
-                    dicampur dengan satu sendok air kapur sirih. Rebus dan aduk
-                    gabungan tersebut hingga rata. Setelah mendidih, lantas
-                    didinginkan dan saring ampasnya. Minum 3 x sehari hingga
-                    sembuh.
+                <div className="text-gray-700 ml-5">
+                  4. Menyembuhkan kanker
+                  <div className="ml-5">
+                    &emsp; &emsp;Beberapa senyawa dalam tapak dara, seperti vincristine dan vinblastine, digunakan dalam pengobatan kanker untuk menghambat pertumbuhan sel kanker.
+                  </div>
+                </div>
+
+                <div className="text-gray-700 font-bold mt-2 text-left">
+                  C. Pemeliharaan tanaman tapak dara
+                </div>
+                <div className="text-gray-700">
+                  &emsp; &emsp;Pemeliharaan tanaman tapak dara melibatkan perhatian khusus terhadap kondisi tumbuhnya. Berikut adalah beberapa hal yang perlu diperhatikan dalam pemeliharaan tanaman tapak dara:
+                </div>
+                <div className="text-gray-700 ml-5">
+                  1. Penyiraman
+                  <div className="ml-5">
+                    &emsp; &emsp;Tanaman tapak dara membutuhkan penyiraman yang cukup, terutama pada musim kemarau. Pastikan tanah tetap lembab, tetapi tidak tergenang air.
+                  </div>
+                </div>
+                <div className="text-gray-700 ml-5">
+                  2. Pemupukan
+                  <div className="ml-5">
+                    &emsp; &emsp;Pemupukan secara teratur dengan pupuk organik atau pupuk lengkap akan mendukung pertumbuhan tanaman yang sehat.
+                  </div>
+                </div>
+                <div className="text-gray-700 ml-5">
+                  3. Penyiangan gulma
+                  <div className="ml-5">
+                    &emsp; &emsp;Rutin membersihkan gulma di sekitar tanaman tapak dara penting untuk mencegah persaingan nutrisi dan mendukung pertumbuhan optimal tanaman.
                   </div>
                 </div>
 

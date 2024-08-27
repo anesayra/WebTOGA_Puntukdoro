@@ -42,7 +42,7 @@ const dataToga = [
     latin: "(Medinila Magnifica.)",
     imageUrl: "/parijoto.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman parijoto dikenal dengan buah kecil berwarna ungu yang memiliki bentuk bulat menyerupai anggur mini. Buah parijoto diyakini memiliki khasiat yang luar biasa bagi kesehatan terutama pada sistem reproduksi wanita",
     route: "/Pari-joto",
   },
   {
@@ -50,7 +50,7 @@ const dataToga = [
     latin: "(Plectranthus Amboinicus.)", 
     imageUrl: "/daunjinten.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman daun jinten memiliki daun tebal beraroma khas, sering digunakan sebagai obat tradisional untuk berbagai macam penyakit. ",
     route: "/daun-jinten",
   },
   {
@@ -58,7 +58,7 @@ const dataToga = [
     latin: "(Curcuma Xanthorrhiza.)",
     imageUrl: "/temulawak.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Temulawak adalah tanaman herbal yang telah lama dikenal dan digunakan dalam pengobatan tradisional Indonesia",
     route: "/temulawak",
   },
   {
@@ -66,7 +66,7 @@ const dataToga = [
     latin: "(Strobilanthes Crispus.)",
     imageUrl: "/kejibeling.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Keji Beling, juga dikenal dengan nama Strobilanthes crispus, adalah tanaman herbal yang memiliki manfaat besar dalam pengobatan tradisional",
     route: "/keji-beling",
   },
   {
@@ -74,7 +74,7 @@ const dataToga = [
     latin: "(Graptophyllum pictum.)",
     imageUrl: "/daunungu.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman daun ungu, dikenal juga sebagai Graptophyllum pictum, adalah tanaman hias yang populer dengan daun berwarna ungu yang menarik..",
     route: "/daun-ungu",
   },
   {
@@ -82,7 +82,7 @@ const dataToga = [
     latin: "(Catharanthus Roseus.)",
     imageUrl: "/tapakdara.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman tapak dara, juga dikenal dengan nama Catharanthus roseus, adalah tanaman obat yang memiliki banyak manfaat kesehatan.",
     route: "/tapak-dara",
   },
   {
@@ -90,7 +90,7 @@ const dataToga = [
     latin: "(Hibiscus Sabdariffa.)",
     imageUrl: "/ROSELLA.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman rosella dikenal dengan bunga berwarna merah cerah yang memiliki bentuk menyerupai bunga sepatu.",
     route: "/rosella",
   },
   {
@@ -98,7 +98,7 @@ const dataToga = [
     latin: "(Cymbopogon Citratus.)",
     imageUrl: "/sereh.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman sereh atau serai adalah tanaman herbal yang banyak digunakan dalam masakan Asia Tenggara.",
     route: "/sereh",
   },
   {
@@ -106,7 +106,7 @@ const dataToga = [
     latin: "(Kaempferia Galanga.)",
     imageUrl: "/kencur.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman kencur adalah tanaman rempah yang sering digunakan dalam masakan dan obat tradisional di Indonesia.",
     route: "/kencur",
   },
   {
@@ -114,7 +114,7 @@ const dataToga = [
     latin: "(Pilea cadierei.)",
     imageUrl: "/alumunium.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman daun mutiara dikenal dengan daun kecil berwarna hijau dengan tepi berwarna perak, yang memberikan kesan berkilauan.",
     route: "/daun-alumunium",
   },
   {
@@ -122,7 +122,7 @@ const dataToga = [
     latin: "(Citrus Limon.)",
     imageUrl: "/lemon.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Jeruk lemon adalah buah sitrun dengan kulit berwarna kuning dan rasa yang asam. Buah ini dikenal memiliki berbagai manfaat kesehatan dan sering digunakan dalam masakan serta minuman. ",
     route: "/Jeruk-lemon",
   },
   {
@@ -130,7 +130,7 @@ const dataToga = [
     latin: "(Allium ascalonicum.)",
     imageUrl: "/bawang.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman bawang merah adalah salah satu jenis bawang yang sering digunakan dalam berbagai masakan.",
     route: "/bawang-merah",
   },
   {
@@ -138,7 +138,7 @@ const dataToga = [
     latin: "(Averrhoa carambola.)",
     imageUrl: "/belimbing.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman belimbing dikenal dengan buahnya yang berbentuk bintang ketika dipotong.",
     route: "/belimbing",
   },
   {
@@ -146,7 +146,7 @@ const dataToga = [
     latin: "(Petiveria alliacea.)",
     imageUrl: "/singa.jpeg",
     description:
-      " buah citrus yang terkenal karena kandungan vitamin C-nya yang tinggi, digunakan secara luas dalam pengobatan tradisional dan sebagai bahan penyegar dalam berbagai hidangan.",
+      " Tanaman singawalang dikenal dengan daun yang berbentuk lonjong dan bunga kecil berwarna ungu.",
     route: "/siwalang",
   },
 ];

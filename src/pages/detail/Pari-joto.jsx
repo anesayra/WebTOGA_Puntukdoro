@@ -2,7 +2,7 @@ import HeaderComp from "@/components/HeaderComp";
 import FooterComp from "@/components/FooterComp";
 import Head from "next/head";
 
-export default function DetailTogaJahe() {
+export default function DetailTogaParijoto() {
   return (
     <>
       <Head>
@@ -20,7 +20,7 @@ export default function DetailTogaJahe() {
               className="flex flex-col  overflow-hidden items-center justify-center w-full lg:w-4/5  lg:mt-[60px]"
             >
               <h1 className="text-2xl lg:text-4xl font-bold text-gray-900 mb-[40px] lg:mb-[50px]">
-                PARI JOTO <a className="italic">(Medinilla cumingii )</a>
+                PARI JOTO <a className="italic">(Medinilla cumingii)</a>
               </h1>
               <div className="lg:w-1/2 w-full p-4">
                 <img
@@ -30,163 +30,70 @@ export default function DetailTogaJahe() {
                 />
               </div>
               <div className="text-gray-700 mt-2 self-start">
-                Ada berbagai jenis Jahe di indonesia, antara lain:
-              </div>
-              <div className="text-gray-700  ml-5 self-start">
-                1. Jahe gajah/jahe badak{" "}
-                <a className="italic">(Zingiber officinale Roscoe)</a>
-              </div>
-              <div className="text-gray-700  ml-5 self-start">
-                2. Jahe emprit{" "}
-                <a className="italic">(Zingiber officinale var)</a>
-              </div>
-              <div className="text-gray-700  ml-5 self-start">
-                3. Jahe merah{" "}
-                <a className="italic">(Zingiber officinale var. Rubrum)</a>
+                Tanaman parijoto dikenal dengan buah kecil berwarna ungu yang memiliki bentuk bulat menyerupai anggur mini. Buah parijoto diyakini memiliki khasiat yang luar biasa bagi kesehatan terutama pada sistem reproduksi wanita. Tanaman ini banyak ditemukan di kawasan perbukitan dan pegunungan dengan ketinggian 800 hingga 2.300 meter di atas permukaan laut.
               </div>
               <div className=" w-full pl-5 pr-4 pb-4 flex flex-col justify-between">
-                <div className="text-gray-700 mb-3">
-                  <b>Jahe</b> merah lebih pedas daripada jahe yang lain karena
-                  mengandung senyawa volatil yang lebih tinggi dibandingkan jahe
-                  yang lain.
+                
+                <div className="text-gray-700 font-bold mt-2 text-left">
+                  A. Bagian yang dimanfaatkan dari tanaman parijoto
                 </div>
-                <div className="text-gray-700 font-bold ">
-                  A. Pemilihan bibit
+                <div className="text-gray-700">
+                  &emsp; &emsp;Bagian tanaman parijoto yang paling sering dimanfaatkan adalah buahnya. Buah parijoto dapat dimakan langsung atau diolah menjadi obat herbal. Selain buahnya, daun parijoto juga memiliki manfaat sebagai bahan baku pembuatan obat tradisional untuk berbagai penyakit.
+                </div>
+
+                <div className="text-gray-700 font-bold mt-2 text-left">
+                  B. Manfaat tanaman parijoto
+                </div>
+                <div className="text-gray-700">
+                  &emsp; &emsp;Tanaman parijoto dipercaya memiliki banyak manfaat kesehatan, terutama dalam menjaga keseimbangan hormon. Berikut adalah beberapa manfaat dari tanaman parijoto:
                 </div>
                 <div className="text-gray-700  ml-5">
-                  Pilih bibit yang berkualitas dan terlindung dari penyakit atau
-                  hama. Adapun kriteria pemilihan bibit adalah sebagai berikut
+                  1. Meningkatkan kesuburan
+                  <div className="ml-5">
+                    &emsp; &emsp;Konsumsi buah parijoto diyakini dapat meningkatkan kesuburan pada wanita, sehingga sering dikonsumsi oleh mereka yang sedang menjalani program kehamilan.
+                  </div>
+                </div>
+                <div className="text-gray-700  ml-5">
+                  2. Menurunkan tekanan darah tinggi
+                  <div className="ml-5">
+                    &emsp; &emsp;Buah parijoto juga dikenal dapat membantu menurunkan tekanan darah tinggi karena kandungan antioksidan dan senyawa aktif lainnya yang dapat membantu menyeimbangkan sistem kardiovaskular.
+                  </div>
+                </div>
+                <div className="text-gray-700  ml-5">
+                  3. Meningkatkan daya tahan tubuh
+                  <div className="ml-5">
+                    &emsp; &emsp;Kandungan nutrisi dalam buah parijoto, seperti vitamin C dan senyawa antioksidan, dapat membantu meningkatkan daya tahan tubuh serta melindungi dari berbagai penyakit.
+                  </div>
+                </div>
+                <div className="text-gray-700  ml-5">
+                  4. Membantu pencernaan
+                  <div className="ml-5 ">
+                    &emsp; &emsp;Buah parijoto diketahui juga memiliki efek positif dalam membantu proses pencernaan karena kandungan serat yang ada di dalamnya, membantu melancarkan sistem pencernaan dan mencegah sembelit.
+                  </div>
+                </div>
+
+                <div className="text-gray-700 font-bold mt-2 text-left">
+                  C. Pemeliharaan tanaman parijoto
+                </div>
+                <div className="text-gray-700">
+                  &emsp; &emsp;Pemeliharaan tanaman parijoto membutuhkan perhatian terhadap lingkungan tumbuhnya. Tanaman ini tumbuh subur di daerah dengan kelembaban tinggi dan tanah yang kaya akan bahan organik. Berikut adalah beberapa hal yang perlu diperhatikan dalam pemeliharaan tanaman parijoto:
                 </div>
                 <div className="text-gray-700 ml-5">
+                  1. Penyiraman
                   <div className="ml-5">
-                    - Sebaiknya bibit jahe langsung dibeli dari kebun bukan
-                    dibeli dari pasar.
+                    &emsp; &emsp;Tanaman parijoto membutuhkan penyiraman yang cukup, terutama pada musim kemarau. Pastikan tanah tetap lembab, tetapi tidak tergenang air.
                   </div>
+                </div>
+                <div className="text-gray-700 ml-5">
+                  2. Pemupukan
                   <div className="ml-5">
-                    - Bibit jahe yang dipilih adalah bibit jahe yang berumur tua
-                    antara 9 hingga 10 bulan
+                    &emsp; &emsp;Pemberian pupuk organik secara berkala sangat dianjurkan untuk memastikan pertumbuhan tanaman yang optimal. Pupuk kompos atau pupuk kandang dapat digunakan untuk meningkatkan kualitas tanah.
                   </div>
+                </div>
+                <div className="text-gray-700 ml-5">
+                  3. Penyiangan gulma
                   <div className="ml-5">
-                    - pemilihan bibit jahe berasal dari tanaman yang subur dan
-                    sehat
-                  </div>
-                  Kemudian dilakukan penyemaian bibit jahe dilakukan agar
-                  pertumbuhan optimal. Penyemaian dilakukan pada media tanam
-                  berupa polybag , ember besar atau kotak kayu. Sebelum ditanam
-                  bibit jahe sebaiknya dikeringkan tetapi tidak sampai kering
-                  selama penjemuran. Kemudian rimpang jahe direndam didalam air
-                  yang telah diberi fungisida selama 1 menit. Rimpang jahe yang
-                  sudah siap ditanam dalam media yang telah diberi jerami dan
-                  abu gosok setebal 10 cm lalu ditunggu 1-3 minggu.
-                </div>
-                <div className="text-gray-700 font-bold mt-2">
-                  B. Cara pengolahan media tanam
-                </div>
-                <div className="text-gray-700">
-                  &emsp; &emsp;Gemburkan tanah yang akan digunakan untuk menanam
-                  kemudian campur dengan pupuk kandang dan jerami dengan
-                  perbandingan 3:1 kemudian siram secara merata pada media
-                  tanam.
-                </div>
-                <div className="text-gray-700 font-bold mt-2">
-                  C. Perawatan dan pemeliharaan jahe
-                </div>
-                <div className="text-gray-700">
-                  &emsp; &emsp;Perawatan jahe tidak sulit dan cukup mudah. Hal
-                  yang perlu dilakukan adalah melakukan penyiraman secara rutin
-                  pada pagi dan sore hari secara teratur kemudian setelah jahe
-                  mulai tumbuh pemberian air dapat dikurangi dan pemberian pupuk
-                  dapat ditambahkan agar proses pertumbuhan dapat maksimal.
-                </div>
-                <div className="text-gray-700  ml-5">
-                  1. Penyulaman
-                  <div className="ml-5">
-                    &emsp; &emsp;Penyulaman dilakukan pada saat 2-3 minggu
-                    setelah tanam, tanaman jahe yang kurang sehat segera diganti
-                    dengan bibit baru yang lebih sehat agar proses pertumbuhan
-                    merata.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  2. Penyiangan
-                  <div className="ml-5">
-                    &emsp; &emsp;Penyiangan dilakukan setiap 1minggu sekali pada
-                    umur jahe 7 bulan. Pengendalian hama penting untuk dilakukan
-                    untuk mencegah gulma yang mengganggu penyerapan nutrisi dan
-                    air untuk jahe dari tanah.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  3. Pemupukan
-                  <div className="ml-5 ">
-                    &emsp; &emsp;Pemupukan dapat dilakukan dengan pupuk organik
-                    agar pertumbuhan jahe maksimal.
-                  </div>
-                </div>
-                <div className="text-gray-700 font-bold mt-2">
-                  D. Masa panen jahe
-                </div>
-                <div className="text-gray-700">
-                  &emsp; &emsp;Pemanenan jahe dapat dilakukan ketika jahe telah
-                  berumur 8 hingga 12 bulan. Ciri jahe yang siap dipanen adalah
-                  batangnya mulai berwarna cokelat, daunnya pun mulai berwarna
-                  cokelat dan mulai rontok. Batang jahe mulai kurus dan
-                  pertumbuhan jahe semakin lambat.
-                </div>
-                <div className="text-gray-700 font-bold mt-2">
-                  E. Manfaat jahe bagi kesehatan dan cara pengolahannya
-                </div>
-                <div className="text-gray-700">
-                  &emsp; &emsp;Perawatan jahe tidak sulit dan cukup mudah. Hal
-                  yang perlu dilakukan adalah melakukan penyiraman secara rutin
-                  pada pagi dan sore hari secara teratur kemudian setelah jahe
-                  mulai tumbuh pemberian air dapat dikurangi dan pemberian pupuk
-                  dapat ditambahkan agar proses pertumbuhan dapat maksimal.
-                </div>
-                <div className="text-gray-700  ml-5">
-                  1. Membantu meredakan batuk
-                  <div className="ml-5">
-                    &emsp; &emsp;Disiapkan jahe dengan seukuran ibu jari,
-                    kemudian dicuci hingga bersih lalu diparut. Kemudian direbus
-                    dengan air sebanyak 150 mL. Olahan herbal tersebut siap
-                    diminum.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  2. Menjadi obat cacing gelang
-                  <div className="ml-5">
-                    &emsp; &emsp;Sediakan jahe dengan takaran 60 g (jahe fresh),
-                    cuci sampai bersih lalu diparut dan dicampur segelas air
-                    dengan mengaduknya, jangan lupa untuk menyaring airnya.
-                    Berikan tambahan madu satu sendok makan saat akan diminum.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  3. Membantu meredakan mabuk perjalanan
-                  <div className="ml-5 ">
-                    &emsp; &emsp;Sediakan rimpang jahe seukuran ibu jari, cuci
-                    rimpang tersebut lalu iris-iris,kemudian direbus dengan
-                    campuran segelas air hingga mendidih. Minum air rebusan
-                    ketika masih hangat.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  4. Membantu meredakan masuk angin
-                  <div className="ml-5 ">
-                    &emsp; &emsp;Sediakan jahe dengan takaran seibu jari saja,
-                    lalu cuci sampai bersih. Memarkan jahe hasil cucian tadi dan
-                    rebus dengan tambahan 2 gelas air yang telah dicampur
-                    sedikit gula aren. Tunggu sampai benar-benar mendidih,
-                    jangan lupa untuk menyaring hasil rebusan tersebut. Baik
-                    diminum saat hangat.
-                  </div>
-                </div>
-                <div className="text-gray-700  ml-5">
-                  5. Membantu mengobati mual
-                  <div className="ml-5 ">
-                    &emsp; &emsp;Sediakan jahe dengan takaran seibu jari, cuci
-                    hingga bersih lalu memarkan. Kemudian rebus dengan satu
-                    gelas air dengan tambahan sedikit asam jawa serta Gula aren.
+                    &emsp; &emsp;Pastikan untuk membersihkan gulma yang tumbuh di sekitar tanaman agar tidak menghambat pertumbuhan dan penyerapan nutrisi oleh tanaman parijoto.
                   </div>
                 </div>
 
